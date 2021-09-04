@@ -112,7 +112,7 @@ body{
   }
   @media screen and (max-width:375px) {
     .title::after{
-        transform: translateY(35px);
+        transform: translateY(23px);
     }
     
   }
